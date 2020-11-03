@@ -1,0 +1,10 @@
+TO USE:
+- place the components list in the docs folder
+	- MUST BE NAMED "Components.docx"
+	- components list may be numbered/indented, but doesn't have to be
+- place the specs in the docs folder
+	- MUST BE NAMED "Specs.docx"
+* ALL DOCUMENTS MUST BE OF TYPE .docx AND MUST BE WORD 2007
+	- Justin still uses WORD 2003 documents sometimes, make sure you don't
+- run main.py
+- specs combined with numbered components will be added below main.py
